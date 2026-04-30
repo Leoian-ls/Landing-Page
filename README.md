@@ -10,7 +10,6 @@ This is a practice project developed while learning Front-End fundamentals. I'm 
 
 - **HTML5** - Page structure and semantic markup
 - **CSS3** - Styling and layout
-- **JavaScript** - Interactivity
 
 ## 📌 Status
 

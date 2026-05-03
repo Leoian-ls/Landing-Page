@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <!-- Logo 2 Beira Mar - versão para fundo claro -->
+  <g transform="translate(8, 18)">
+    <path d="M0,20 Q13,8 26,20 Q39,32 52,20" fill="none" stroke="#c8a96e" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M4,30 Q17,22 30,30 Q43,38 52,30" fill="none" stroke="#c8a96e" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+    <circle cx="26" cy="4" r="3" fill="#c8a96e"/>
+    <rect x="25" y="7" width="1.5" height="9" fill="#c8a96e"/>
+  </g>
+  <text x="72" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#1a1a1a">Beira Mar</text>
+  <line x1="72" y1="38" x2="148" y2="38" stroke="#c8a96e" stroke-width="0.8"/>
+  <polygon points="110,34 114,38 110,42 106,38" fill="#c8a96e"/>
+  <line x1="112" y1="38" x2="212" y2="38" stroke="#c8a96e" stroke-width="0.8"/>
+  <text x="142" y="54" font-family="Georgia, serif" font-size="9.5" letter-spacing="4" text-anchor="middle" fill="#777777">RESIDÊNCIAS</text>
+  <line x1="90" y1="60" x2="192" y2="60" stroke="#c8a96e" stroke-width="0.5" opacity="0.5"/>
+</svg>
